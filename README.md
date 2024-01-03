@@ -14,8 +14,8 @@
 
 来自MIT课程线性代数的笔记，可以在[麻省理工学院 - MIT - 线性代数](https://www.bilibili.com/video/BV16Z4y1U7oU)观看。
 
-- 第01集 [方程组的几何解释](chapter01.ipynb)
-- 第02集 [矩阵消元](chapter02.ipynb)
+- Lecture 01 [方程组的几何解释](chapter01.ipynb)
+- Lecture 02 [矩阵消元](chapter02.ipynb)
 - 第03集 [乘法和逆矩阵](chapter03.ipynb)
 - 第04集 [A的LU分解](chapter04.ipynb)
 - 第05集 [转置-置换-向量空间R](chapter05.ipynb)
