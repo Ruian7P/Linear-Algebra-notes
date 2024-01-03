@@ -14,7 +14,7 @@
 
 来自MIT课程线性代数的笔记，可以在[麻省理工学院 - MIT - 线性代数](https://www.bilibili.com/video/BV16Z4y1U7oU)观看。
 
-> ##Jan 03
+> # Jan 03
 - Lecture 01 [方程组的几何解释]
 - Lecture 02 [矩阵消元]
 - 第03集 [乘法和逆矩阵](chapter03.ipynb)
