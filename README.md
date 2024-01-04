@@ -12,7 +12,7 @@
 
 ## 目录
 
-来自MIT课程线性代数的笔记，可以在[麻省理工学院 - MIT - 线性代数](https://www.bilibili.com/video/BV16Z4y1U7oU)观看。
+来自MIT课程线性代数的笔记，可以在[麻省理工学院 - MIT - 线性代数](https://www.bilibili.com/video/BV16Z4y1U7oU)观看。资料参考：[MITOPENCOURSEWARE](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 > ### Jan 02
 - Lecture 01 [方程组的几何解释](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Lecture%2001%20%26%2002.ipynb)
