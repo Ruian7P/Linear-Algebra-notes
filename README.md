@@ -20,7 +20,7 @@
 > ### Jan 03
 - Lecture 03 [乘法和逆矩阵](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Lecture%2003.ipynb)
 > ### Jan 06
-- Lecture 04 [A的LU分解](Lecture 04.ipynb)
+- Lecture 04 [A的LU分解](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Lecture%2004.ipynb)
 - Lecture 05 [转置-置换-向量空间R](chapter05.ipynb)
 - Lecture 06 [列空间和零空间](chapter06.ipynb)
 - Lecture 07 [求解Ax=0：主变量、特解](chapter07.ipynb)
