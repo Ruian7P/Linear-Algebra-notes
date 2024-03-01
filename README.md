@@ -16,6 +16,8 @@
 
 > ### Important Methods
 - [LU Decomposition to solve system equation](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/LU%20Decomposition%20to%20solve%20system%20equation.pdf)
+- [Vector Space and REF](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Rank.pdf)
+- [Rank](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Vector%20Space.pdf)
 
 
 > ### Jan 02
