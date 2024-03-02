@@ -22,7 +22,7 @@
 - **[Rank and Sovability](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Rank%20and%20Sovability.pdf)**
 
 
-
+> ### Others(unfinished)
 - Lecture 01 [方程组的几何解释](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Lecture%2001%20%26%2002.ipynb)
 - Lecture 02 [矩阵消元](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Lecture%2001%20%26%2002.ipynb)
 - Lecture 03 [乘法和逆矩阵](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Lecture%2003.ipynb)
