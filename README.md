@@ -1,16 +1,16 @@
 # Linear Algebra Notes 线性代数笔记
 
-## 简介
+## Introduction 简介
 
-**作者：Ruian7P**
+**Author：Ruian7P**
 
-线性代数笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
+Linear Algebra Note，by handwriting and `jupyter notebook (ipython notebook)` code and present
 
-个人笔记记录：NYU 2024 Spring (second semester)
+Personal Note Record：NYU 2024 Spring (second semester)
 
 ----
 
-## 目录
+## MENU
 
 来自MIT课程线性代数的笔记，可以在[麻省理工学院 - MIT - 线性代数](https://www.bilibili.com/video/BV16Z4y1U7oU)观看。资料参考：[MITOPENCOURSEWARE](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
