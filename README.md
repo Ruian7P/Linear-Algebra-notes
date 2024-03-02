@@ -18,7 +18,7 @@
 - **[Check and Find Invertible Matrix](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Check%20and%20Find%20Invertible%20Matrix.pdf)**
 - **[LU Decomposition to solve system equation](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/LU%20Decomposition%20to%20solve%20system%20equation.pdf)**
 - **[Check if subspace(Vector Space and REF)](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Vector%20Space%20and%20REF%20(check%20if%20subspace).pdf)**
-- **[Find Complete Solution](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Complete%20Solution%20(Find).pdf)
+- **[Find Complete Solution](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Complete%20Solution%20(Find).pdf)**
 - **[Rank and Sovability](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Rank%20and%20Sovability.pdf)**
 
 
