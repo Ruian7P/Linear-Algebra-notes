@@ -20,7 +20,7 @@ Personal Note Record：NYU 2024 Spring (second semester)
 - **[Check if subspace(Vector Space and REF)](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Vector%20Space%20and%20REF%20(check%20if%20subspace).pdf)**
 - **[Find Complete Solution](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Complete%20Solution%20(Find).pdf)**
 - **[Rank and Sovability](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Rank%20and%20Sovability.pdf)**
-- **[Find Column/Row Space (Basis, Dimension)](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20Column%20Space%20and%20Row%20Space%2C%20Basis%2C%20and%20Dimension.pdf)
+- **[Find Column/Row Space (Basis, Dimension)](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20Column%20Space%20and%20Row%20Space%2C%20Basis%2C%20and%20Dimension.pdf)**
 
 
 > ### Others(unfinished)
