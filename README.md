@@ -27,6 +27,7 @@ Personal Note Record：NYU 2024 Spring (second semester)
 - **[Find QR Factorization](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20QR%20Factorization.pdf)**
 - **[Determinants and its properties](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Determinants%20and%20its%20properties.pdf)**
 - **[Cofactor to find Determinant and Inverse](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Cofactor%20to%20find%20Determinant%20and%20Inverse.pdf)**
+- **[Use Cramer's Rule to find solution](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Use%20Cramer's%20Rule%20to%20find%20solution.pdf)**
 
 
 > ### Others(unfinished)
