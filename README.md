@@ -25,6 +25,7 @@ Personal Note Record：NYU 2024 Spring (second semester)
 - **[Find Best-fit line by using Least Square Approximation](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20Best-fit%20line%20by%20using%20Least%20Square%20Approximation.pdf)**
 - **[Use Gram-Schimidt to find Orthogonal basis](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Use%20Gram-Schimidt%20to%20find%20Orthogonal%20basis.pdf)**
 - **[Find QR Factorization](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20QR%20Factorization.pdf)**
+- **[Determinants and its properties](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Determinants%20and%20its%20properties.pdf)**
 
 
 > ### Others(unfinished)
