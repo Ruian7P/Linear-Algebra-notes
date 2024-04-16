@@ -26,6 +26,7 @@ Personal Note Record：NYU 2024 Spring (second semester)
 - **[Use Gram-Schimidt to find Orthogonal basis](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Use%20Gram-Schimidt%20to%20find%20Orthogonal%20basis.pdf)**
 - **[Find QR Factorization](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20QR%20Factorization.pdf)**
 - **[Determinants and its properties](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Determinants%20and%20its%20properties.pdf)**
+- **[Cofactor to find Determinant and Inverse](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Cofactor%20to%20find%20Determinant%20and%20Inverse.pdf)**
 
 
 > ### Others(unfinished)
