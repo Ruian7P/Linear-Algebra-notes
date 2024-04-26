@@ -15,6 +15,9 @@ Personal Note Record：NYU 2024 Spring (second semester)
 来自MIT课程线性代数的笔记，可以在[麻省理工学院 - MIT - 线性代数](https://www.bilibili.com/video/BV16Z4y1U7oU)观看。资料参考：[MITOPENCOURSEWARE](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 > ### Important Methods
+- **[Important][Essence of Linear Algebra](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Essence%20of%20Linear%20Algebra.pdf)**
+
+  
 - **[Check and Find Invertible Matrix](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Check%20and%20Find%20Invertible%20Matrix.pdf)**
 - **[LU Decomposition to solve system equation](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/LU%20Decomposition%20to%20solve%20system%20equation.pdf)**
 - **[Check if subspace(Vector Space and REF)](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Vector%20Space%20and%20REF%20(check%20if%20subspace).pdf)**
