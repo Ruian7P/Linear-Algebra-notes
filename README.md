@@ -28,6 +28,7 @@ Personal Note Record：NYU 2024 Spring (second semester)
 - **[Determinants and its properties](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Determinants%20and%20its%20properties.pdf)**
 - **[Cofactor to find Determinant and Inverse](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Cofactor%20to%20find%20Determinant%20and%20Inverse.pdf)**
 - **[Use Cramer's Rule to find solution](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Use%20Cramer's%20Rule%20to%20find%20solution.pdf)**
+- **[Find eigenvalues and eigenvector](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20eigenvalue%20and%20eigenvector.pdf)**
 
 
 > ### Others(unfinished)
