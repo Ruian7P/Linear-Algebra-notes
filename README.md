@@ -35,6 +35,7 @@ Personal Note Record：NYU 2024 Spring (second semester)
 - **[Diagonalize the matrix](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/diagonalize%20the%20matrix.pdf)**
 - **[Symmetric Matrix and Positive Define Matrix](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/symmetric%20matrix%20and%20positive%20define%20matrix.pdf)**
 - **[Find Singular value decomposition and its fundamental subspaces](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20SVD%20and%20its%20fundamental%20subspaces.pdf)**
+- **[Linear Transformation and Change Basis](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Linear%20Transformation%20and%20Change%20Basis.pdf)**
 
 
 > ### Others(unfinished)
