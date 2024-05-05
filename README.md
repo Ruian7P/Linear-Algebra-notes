@@ -33,6 +33,8 @@ Personal Note Record：NYU 2024 Spring (second semester)
 - **[Use Cramer's Rule to find solution](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Use%20Cramer's%20Rule%20to%20find%20solution.pdf)**
 - **[Find eigenvalues and eigenvector](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/Find%20eigenvalue%20and%20eigenvector.pdf)**
 - **[Diagonalize the matrix](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/diagonalize%20the%20matrix.pdf)**
+- **[Symmetric Matrix and Positive Define Matrix](https://github.com/Ruian7P/Linear-Algebra-notes/blob/main/Methods/symmetric%20matrix%20and%20positive%20define%20matrix.pdf)**
+- **[Find singular value decomposition and fundamental subspaces of SVD](Methods/Find singular value decomposition and fundamental subspaces of SVD.pdf）**
 
 
 > ### Others(unfinished)
